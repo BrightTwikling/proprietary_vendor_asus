@@ -64,3 +64,4 @@ sched_getscheduler: 1
 sigaltstack: 1
 sched_getaffinity: 1
 pipe2: 1
+gettid: 1
