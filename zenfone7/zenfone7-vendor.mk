@@ -292,7 +292,6 @@ PRODUCT_PACKAGES += \
     DeviceStatisticsService \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
-    AntHalService-Soong \
     DeviceInfo \
     QtiTelephonyService \
     colorservice \
